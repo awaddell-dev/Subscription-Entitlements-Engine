@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "membership-perks-engine"
+version = "0.1.0"
+description = "Subscription perks engine with monthly refresh and rollover logic"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
