@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import Mock
 from datetime import datetime
 
-from membership_perks_engine.membership import Membership
+from subscription_entitlements_engine.membership import Membership
 
 
 class FakeClock:

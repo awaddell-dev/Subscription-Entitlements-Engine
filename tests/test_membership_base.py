@@ -1,7 +1,7 @@
 import unittest
 from datetime import datetime
 
-from membership_perks_engine.membership import (
+from subscription_entitlements_engine.membership import (
     Membership,
     InactiveMemberError,
     NoPerksAvailableError,

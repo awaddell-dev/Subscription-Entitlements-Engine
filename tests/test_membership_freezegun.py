@@ -1,7 +1,7 @@
 import unittest
 from freezegun import freeze_time
 
-from membership_perks_engine.membership import Membership
+from subscription_entitlements_engine.membership import Membership
 
 
 class TestMembershipWithFreezegun(unittest.TestCase):
