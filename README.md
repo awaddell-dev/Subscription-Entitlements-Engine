@@ -38,7 +38,7 @@ requirements.txt
 
 > ✅ Test suite passing locally:
 
-![Test suite passing](docs/tests-passing.png)
+![Test suite passing](img/tests-passing.png)
 
 ---
 
