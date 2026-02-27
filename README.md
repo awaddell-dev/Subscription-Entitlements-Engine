@@ -1,6 +1,6 @@
 # Subscription Entitlements Engine
 
-![CI](https://github.com/<YOUR_GITHUB_USERNAME>/Subscription-Entitlements-Engine/actions/workflows/tests.yml/badge.svg)
+![CI](https://github.com/<awaddell-dev>/Subscription-Entitlements-Engine/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
