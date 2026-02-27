@@ -115,3 +115,15 @@ This ensures the engine remains stable across environments.
 ## License
 
 MIT License
+
+---
+
+## Author
+
+**Alex Waddell**  
+Software Development Intern — Creating Coding Careers  
+BAS in Software Development — California Institute of Applied Technology  
+
+Transitioning U.S. Army NCO → Software Engineer  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/alex-waddell-5082a429b)
